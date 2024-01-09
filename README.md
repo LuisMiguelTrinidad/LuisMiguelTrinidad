@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Luis Miguel Trinidad / Estudiante de TI </h1> 
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/luis-miguel-trinidad-salvador-917422180/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""  /></a>
 <a href = "mailto:lmtrinidadsalvador@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""  /></a>
   </p>
