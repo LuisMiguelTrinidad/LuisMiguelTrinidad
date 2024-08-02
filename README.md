@@ -30,14 +30,16 @@
 
 <h2>Tecnologías conocidas </h2>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" class="stretch-img">
     <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript,bootstrap,tailwind,django&perline=6" />
   </a>
 </p>
 <br>
 <h2>Estadísticas de github :octocat: </h2>
 <p align="left">
-  <a href="https://git.io/streak-stats"><img class="stretch-img" src="https://github-readme-streak-stats.herokuapp.com?user=LuisMiguelTrinidad&theme=github-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+      <img class="stretch-img" src="https://github-readme-streak-stats.herokuapp.com?user=LuisMiguelTrinidad&theme=github-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+  </a>
 </p>
 </body>
 </html>
