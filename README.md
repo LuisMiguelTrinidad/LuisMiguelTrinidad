@@ -17,7 +17,7 @@
 <h2>Tecnologías conocidas </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript&perline=12" />
+    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript,bootstrap,tailwind,django&perline=6" />
   </a>
 </p>
 <br>
