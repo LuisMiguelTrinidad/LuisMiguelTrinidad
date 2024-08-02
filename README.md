@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luis Miguel Trinidad</title>
-    <style>
-        .stretch-img {
-            width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
 <h1 align="center">Hola 👋  soy Luis Miguel Trinidad / Estudiante de TI </h1> 
 
 <p align="center">
@@ -29,17 +15,10 @@
 <br>
 
 <h2>Tecnologías conocidas </h2>
-<p align="left">
-  <a href="https://skillicons.dev" class="stretch-img">
-    <img src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript,bootstrap,tailwind,django&perline=6" />
-  </a>
+<p align="center">
+    <img width=100% src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript,bootstrap,tailwind,django&perline=8" />
 </p>
 <br>
 <h2>Estadísticas de github :octocat: </h2>
 <p align="left">
-  <a href="https://git.io/streak-stats">
-      <img class="stretch-img" src="https://github-readme-streak-stats.herokuapp.com?user=LuisMiguelTrinidad&theme=github-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-  </a>
-</p>
-</body>
-</html>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LuisMiguelTrinidad&theme=github-dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
