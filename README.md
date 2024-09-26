@@ -16,7 +16,7 @@
 
 <h2>Tecnologías conocidas </h2>
 <p align="center">
-    <img width=100% src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript,bootstrap,tailwind,django,react&perline=8" />
+    <img width=100% src="https://skillicons.dev/icons?i=java,py,mysql,git,github,eclipse,vscode,html,css,javascript,bootstrap,tailwind,django,react&perline=7" />
 </p>
 <br>
 <h2>Estadísticas de github :octocat: </h2>
